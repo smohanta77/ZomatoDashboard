@@ -1,0 +1,80 @@
+🧍‍♂️ User Overview
+Active Users: 78K
+
+Total Users: 78K
+
+Total Orders: 150K
+
+Ratings Count: 148K
+
+📈 User Acquisition and Retention
+✅ Gained Users
+Total: 12K
+
+Male: 6.5K
+
+Female: 5.1K
+
+❌ Lost Customers
+Total: 33K
+
+Male: 18.8K
+
+Female: 14K
+
+🔎 Insight:
+Zomato is losing more than double the customers it is gaining. Male customers show a significantly higher churn rate.
+
+👶 Demographics – Users by Age
+Age groups between 20-27 are the most active.
+
+Peak at age 24 (15K users) and 23 (11K users).
+
+Sharp drop post-30 age group.
+
+🔎 Insight:
+Target marketing campaigns towards users aged 20–27, who form the core customer base.
+
+🏙️ City-Wise Performance
+💰 Top 5 Cities by Sales
+City	Sales
+Tirupati	₹42.5M
+Electronic City, Bangalore	₹28.6M
+Baner, Pune	₹26.7M
+Raipur	₹22.8M
+Others	₹22.3M
+
+⭐ Top Cities by Ratings
+City	Ratings
+Bikaner	Highest
+Noida-1	High
+Indirapuram	High
+
+👥 Top Cities by User Count
+City	Users
+Bikaner	~2K
+Others	~1.9K
+Noida-1	~1.7K
+
+🔎 Insight:
+While Tirupati leads in sales, Bikaner leads in ratings and user count. Zomato should investigate what drives higher satisfaction and engagement in Bikaner.
+
+🛍️ Sales Breakdown by Food Category
+Category	Sales	Ratings
+Veg	₹122M	12K
+Non-Veg	₹106M	10K
+Others	₹24M	927
+
+🔎 Insight:
+Veg food is the highest contributor to revenue and has the most ratings, suggesting a broader user preference or satisfaction.
+
+📆 Sales Over Time
+Yearly Sales Trend:
+Year	Sales (Billion)
+2017	0.09
+2018	0.41 (Peak)
+2019	0.34
+2020	0.14 (Drop)
+
+🔎 Insight:
+Post-2018, there's been a downward trend in sales, with a significant dip in 2020—likely due to pandemic impact. Strategic intervention is required to recover momentum.
